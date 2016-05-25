@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlantationMethod>
+  <MethodCode Code="1">
+    <Method>सरी पद्धत</Method>
+  </MethodCode>
+  <MethodCode Code="2">
+    <Method>जोडओळ पट्टा</Method>
+  </MethodCode>
+  <MethodCode Code="3">
+    <Method>पट्टा पद्धत</Method>
+  </MethodCode>
+</PlantationMethod>

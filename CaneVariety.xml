@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaneVariety>
+  <VarietyCode Code="1">
+    <VarietyName>Co-86032</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="2">
+    <VarietyName>CoM-265</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="3">
+    <VarietyName>CoC-671</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="4">
+    <VarietyName>Co-94012</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="5">
+    <VarietyName>CoM-7714</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="6">
+    <VarietyName>Co-740</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="7">
+    <VarietyName>Co-7527</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="8">
+    <VarietyName>Co-8014</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="9">
+    <VarietyName>Other</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="10">
+    <VarietyName>434</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="11">
+    <VarietyName>7219</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="12">
+    <VarietyName>Co-03102</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="13">
+    <VarietyName>Co-9805</VarietyName>
+  </VarietyCode>
+</CaneVariety>
