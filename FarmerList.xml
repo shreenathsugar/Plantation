@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FarmerList>
+  <GatCode Code="12">
+    <VillageCode Code="80">
+        <SubVillageCode Code="273">
+           <GrowerCode>44</GrowerCode>
+           <GrowerName>Cane Bills Payable</GrowerName>
+           <MobileNo>-</MobileNo>
+           <GrowerCode>121</GrowerCode>
+           <GrowerName>इंगवले पोपट भुजंगराव</GrowerName>
+           <MobileNo>9503817787</MobileNo>
+          <GrowerCode>32541</GrowerCode>
+          <GrowerName>इंगवले शितल महेंद्र</GrowerName>
+          <MobileNo>9766127232</MobileNo>
+          <GrowerCode>7480</GrowerCode>
+          <GrowerName>कटारीया सुनिता संदीप</GrowerName>
+          <MobileNo>-</MobileNo>
+        </SubVillageCode>
+       <SubVillageCode Code="831">
+           <GrowerCode>11958</GrowerCode>
+           <GrowerName>कड शोभा विष्णु</GrowerName>
+           <MobileNo>9823515860</MobileNo>
+          <GrowerCode>40229</GrowerCode>
+         <GrowerName>कडु ज्ञानेश्वर जयसिंग</GrowerName>
+         <MobileNo>9890769335</MobileNo>
+         <GrowerCode>40228</GrowerCode>
+         <GrowerName>कडु श्रीहरी जयसिंग</GrowerName>
+        <MobileNo>9890769335</MobileNo>
+         <GrowerCode>15271</GrowerCode>
+         <GrowerName>कदम अकुंश पाडुंरंग</GrowerName>
+         <MobileNo>-</MobileNo>
+      </SubVillageCode>
+    </VillageCode>
+</GatCode>
+</FarmerList>
