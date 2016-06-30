@@ -5,59 +5,9 @@
     <password>68</password>
     <level>3</level>
   </loginid>
-  <loginid id="3">
+  <loginid id="22">
     <username>-</username>
-    <password>3</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="807">
-    <username>-</username>
-    <password>807</password>
-    <level>2</level>
-  </loginid>
-  <loginid id="101">
-    <username>-</username>
-    <password>101</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="98">
-    <username>-</username>
-    <password>98</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="26">
-    <username>-</username>
-    <password>26</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="91">
-    <username>-</username>
-    <password>91</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="69">
-    <username>-</username>
-    <password>69</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="117">
-    <username>-</username>
-    <password>117</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="129">
-    <username>-</username>
-    <password>129</password>
-    <level>2</level>
-  </loginid>
-  <loginid id="132">
-    <username>-</username>
-    <password>132</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="125">
-    <username>-</username>
-    <password>125</password>
+    <password>22</password>
     <level>3</level>
   </loginid>
   <loginid id="23">
@@ -65,149 +15,119 @@
     <password>23</password>
     <level>2</level>
   </loginid>
-  <loginid id="1">
+  <loginid id="787">
     <username>-</username>
-    <password>1</password>
+    <password>787</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="783">
+    <username>-</username>
+    <password>783</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="788">
+    <username>-</username>
+    <password>788</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="789">
+    <username>-</username>
+    <password>789</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="824">
+    <username>-</username>
+    <password>824</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="784">
+    <username>-</username>
+    <password>784</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="785">
+    <username>-</username>
+    <password>785</password>
     <level>2</level>
   </loginid>
-  <loginid id="24">
+  <loginid id="786">
     <username>-</username>
-    <password>24</password>
+    <password>786</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="795">
+    <username>-</username>
+    <password>795</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="838">
+    <username>-</username>
+    <password>838</password>
     <level>2</level>
   </loginid>
-  <loginid id="6">
+  <loginid id="816">
     <username>-</username>
-    <password>6</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="67">
-    <username>-</username>
-    <password>67</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="100">
-    <username>-</username>
-    <password>100</password>
+    <password>816</password>
     <level>2</level>
   </loginid>
-  <loginid id="16">
+  <loginid id="812">
     <username>-</username>
-    <password>16</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="13">
-    <username>-</username>
-    <password>13</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="135">
-    <username>-</username>
-    <password>135</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="130">
-    <username>-</username>
-    <password>130</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="87">
-    <username>-</username>
-    <password>87</password>
+    <password>812</password>
     <level>2</level>
   </loginid>
-  <loginid id="2">
+  <loginid id="807">
     <username>-</username>
-    <password>2</password>
+    <password>807</password>
     <level>3</level>
   </loginid>
-  <loginid id="7">
+  <loginid id="805">
     <username>-</username>
-    <password>7</password>
+    <password>805</password>
     <level>3</level>
   </loginid>
-  <loginid id="15">
+  <loginid id="803">
     <username>-</username>
-    <password>15</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="92">
-    <username>-</username>
-    <password>92</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="56">
-    <username>-</username>
-    <password>56</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="19">
-    <username>-</username>
-    <password>19</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="8">
-    <username>-</username>
-    <password>8</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="47">
-    <username>-</username>
-    <password>47</password>
+    <password>803</password>
     <level>2</level>
   </loginid>
-  <loginid id="89">
+  <loginid id="799">
     <username>-</username>
-    <password>89</password>
+    <password>799</password>
     <level>3</level>
   </loginid>
-  <loginid id="131">
+  <loginid id="796">
     <username>-</username>
-    <password>131</password>
+    <password>796</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="823">
+    <username>-</username>
+    <password>823</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="820">
+    <username>-</username>
+    <password>820</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="822">
+    <username>-</username>
+    <password>822</password>
+    <level>2</level>
+  </loginid>
+  <loginid id="794">
+    <username>-</username>
+    <password>794</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="35">
+    <username>-</username>
+    <password>35</password>
     <level>3</level>
   </loginid>
   <loginid id="12">
     <username>-</username>
     <password>12</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="30">
-    <username>-</username>
-    <password>30</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="11">
-    <username>-</username>
-    <password>11</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="93">
-    <username>-</username>
-    <password>93</password>
-    <level>2</level>
-  </loginid>
-  <loginid id="46">
-    <username>-</username>
-    <password>4612</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="27">
-    <username>-</username>
-    <password>27</password>
-    <level>2</level>
-  </loginid>
-  <loginid id="29">
-    <username>-</username>
-    <password>29</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="28">
-    <username>-</username>
-    <password>28</password>
-    <level>3</level>
-  </loginid>
-  <loginid id="45">
-    <username>-</username>
-    <password>45</password>
     <level>3</level>
   </loginid>
 </users>
