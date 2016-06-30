@@ -10,9 +10,9 @@
     <password>3</password>
     <level>3</level>
   </loginid>
-  <loginid id="9">
+  <loginid id="807">
     <username>-</username>
-    <password>9</password>
+    <password>807</password>
     <level>2</level>
   </loginid>
   <loginid id="101">
@@ -23,7 +23,7 @@
   <loginid id="98">
     <username>-</username>
     <password>98</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
   <loginid id="26">
     <username>-</username>
