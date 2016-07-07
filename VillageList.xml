@@ -73,6 +73,9 @@
     <VillageCode Code="1369">
       <VillageName>पिपंळगाव पिसा</VillageName>
     </VillageCode>
+    <VillageCode Code="1840">
+      <VillageName>पिंपळगाव फडके</VillageName>
+    </VillageCode>
     <VillageCode Code="1411">
       <VillageName>पिपंळवाडी</VillageName>
     </VillageCode>
@@ -91,10 +94,10 @@
     <VillageCode Code="1830">
       <VillageName>खेड</VillageName>
     </VillageCode>
-    <VillageCode Code="1297">
+    <VillageCode Code="1295">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1295">
+    <VillageCode Code="1297">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
     <VillageCode Code="1509">
@@ -354,10 +357,10 @@
     <VillageCode Code="208">
       <VillageName>रविवार पेठ पुणे</VillageName>
     </VillageCode>
-    <VillageCode Code="129">
+    <VillageCode Code="204">
       <VillageName>सांगवी</VillageName>
     </VillageCode>
-    <VillageCode Code="204">
+    <VillageCode Code="129">
       <VillageName>सांगवी</VillageName>
     </VillageCode>
     <VillageCode Code="59">
@@ -378,10 +381,10 @@
     <VillageCode Code="213">
       <VillageName>स्वारगेट</VillageName>
     </VillageCode>
-    <VillageCode Code="188">
+    <VillageCode Code="1465">
       <VillageName>तरडे</VillageName>
     </VillageCode>
-    <VillageCode Code="1465">
+    <VillageCode Code="188">
       <VillageName>तरडे</VillageName>
     </VillageCode>
     <VillageCode Code="128">
@@ -662,10 +665,10 @@
     <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="165">
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
+    <VillageCode Code="165">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="44">
@@ -696,7 +699,7 @@
       <VillageName>मलठण</VillageName>
     </VillageCode>
     <VillageCode Code="1839">
-      <VillageName />
+      <VillageName>मळद</VillageName>
     </VillageCode>
     <VillageCode Code="1727">
       <VillageName>मेरगळ वाडी</VillageName>
@@ -766,10 +769,10 @@
     <VillageCode Code="88">
       <VillageName>कोरेगाव भिवर</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
+    <VillageCode Code="201">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
+    <VillageCode Code="123">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="90">
