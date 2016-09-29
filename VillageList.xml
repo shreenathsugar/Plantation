@@ -488,6 +488,9 @@
     <VillageCode Code="1171">
       <VillageName>वाजेवाडी</VillageName>
     </VillageCode>
+    <VillageCode Code="1841">
+      <VillageName>वरुडे</VillageName>
+    </VillageCode>
     <VillageCode Code="29">
       <VillageName>वढू बु </VillageName>
     </VillageCode>
@@ -659,16 +662,16 @@
     <VillageCode Code="132">
       <VillageName>खानोटा</VillageName>
     </VillageCode>
-    <VillageCode Code="160">
-      <VillageName>खोपोडी</VillageName>
-    </VillageCode>
     <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
-      <VillageName>खोर</VillageName>
+    <VillageCode Code="160">
+      <VillageName>खोपोडी</VillageName>
     </VillageCode>
     <VillageCode Code="165">
+      <VillageName>खोर</VillageName>
+    </VillageCode>
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="44">
