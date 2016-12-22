@@ -85,6 +85,9 @@
     <VillageCode Code="1451">
       <VillageName>सिध्दटेक</VillageName>
     </VillageCode>
+    <VillageCode Code="1845">
+      <VillageName>वीर</VillageName>
+    </VillageCode>
     <VillageCode Code="1387">
       <VillageName>जलालपूर</VillageName>
     </VillageCode>
@@ -138,6 +141,9 @@
     </VillageCode>
     <VillageCode Code="1550">
       <VillageName>लोहगाव</VillageName>
+    </VillageCode>
+    <VillageCode Code="1847">
+      <VillageName>मांडकी</VillageName>
     </VillageCode>
     <VillageCode Code="1528">
       <VillageName>मोहीतेवाडी</VillageName>
@@ -225,10 +231,10 @@
     <VillageCode Code="62">
       <VillageName>बुर्केगावा</VillageName>
     </VillageCode>
-    <VillageCode Code="178">
+    <VillageCode Code="130">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
-    <VillageCode Code="130">
+    <VillageCode Code="178">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
     <VillageCode Code="788">
@@ -381,10 +387,10 @@
     <VillageCode Code="213">
       <VillageName>स्वारगेट</VillageName>
     </VillageCode>
-    <VillageCode Code="1465">
+    <VillageCode Code="188">
       <VillageName>तरडे</VillageName>
     </VillageCode>
-    <VillageCode Code="188">
+    <VillageCode Code="1465">
       <VillageName>तरडे</VillageName>
     </VillageCode>
     <VillageCode Code="128">
@@ -668,10 +674,10 @@
     <VillageCode Code="160">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="165">
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
+    <VillageCode Code="165">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="44">
@@ -707,10 +713,10 @@
     <VillageCode Code="1727">
       <VillageName>मेरगळ वाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="111">
+    <VillageCode Code="151">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="151">
+    <VillageCode Code="111">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
     <VillageCode Code="116">
@@ -787,10 +793,10 @@
     <VillageCode Code="80">
       <VillageName>पाटेठाण</VillageName>
     </VillageCode>
-    <VillageCode Code="159">
+    <VillageCode Code="81">
       <VillageName>राहु</VillageName>
     </VillageCode>
-    <VillageCode Code="81">
+    <VillageCode Code="159">
       <VillageName>राहु</VillageName>
     </VillageCode>
     <VillageCode Code="85">
