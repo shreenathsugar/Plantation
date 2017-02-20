@@ -97,10 +97,10 @@
     <VillageCode Code="1830">
       <VillageName>खेड</VillageName>
     </VillageCode>
-    <VillageCode Code="1295">
+    <VillageCode Code="1297">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1297">
+    <VillageCode Code="1295">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
     <VillageCode Code="1509">
@@ -142,6 +142,9 @@
     <VillageCode Code="1550">
       <VillageName>लोहगाव</VillageName>
     </VillageCode>
+    <VillageCode Code="1849">
+      <VillageName>लपतडवाडी</VillageName>
+    </VillageCode>
     <VillageCode Code="1847">
       <VillageName>मांडकी</VillageName>
     </VillageCode>
@@ -159,6 +162,9 @@
     </VillageCode>
     <VillageCode Code="1395">
       <VillageName>नांदगाव</VillageName>
+    </VillageCode>
+    <VillageCode Code="1851">
+      <VillageName>परिचे</VillageName>
     </VillageCode>
     <VillageCode Code="1177">
       <VillageName>पेडगाव</VillageName>
@@ -363,10 +369,10 @@
     <VillageCode Code="208">
       <VillageName>रविवार पेठ पुणे</VillageName>
     </VillageCode>
-    <VillageCode Code="204">
+    <VillageCode Code="129">
       <VillageName>सांगवी</VillageName>
     </VillageCode>
-    <VillageCode Code="129">
+    <VillageCode Code="204">
       <VillageName>सांगवी</VillageName>
     </VillageCode>
     <VillageCode Code="59">
@@ -713,10 +719,10 @@
     <VillageCode Code="1727">
       <VillageName>मेरगळ वाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="151">
+    <VillageCode Code="111">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="111">
+    <VillageCode Code="151">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
     <VillageCode Code="116">
@@ -778,10 +784,10 @@
     <VillageCode Code="88">
       <VillageName>कोरेगाव भिवर</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
+    <VillageCode Code="123">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
+    <VillageCode Code="201">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="90">
@@ -793,10 +799,10 @@
     <VillageCode Code="80">
       <VillageName>पाटेठाण</VillageName>
     </VillageCode>
-    <VillageCode Code="81">
+    <VillageCode Code="159">
       <VillageName>राहु</VillageName>
     </VillageCode>
-    <VillageCode Code="159">
+    <VillageCode Code="81">
       <VillageName>राहु</VillageName>
     </VillageCode>
     <VillageCode Code="85">
