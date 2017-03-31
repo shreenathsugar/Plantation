@@ -115,6 +115,9 @@
     </VillageCode>
     <VillageCode Code="89">
       <VillageName>वाळकी</VillageName>
+      <SubVillageCode Code="312">
+        <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+      </SubVillageCode>
       <SubVillageCode Code="327">
         <SubVillageName>थोरात मळा(११)</SubVillageName>
       </SubVillageCode>
@@ -159,12 +162,6 @@
       </SubVillageCode>
       <SubVillageCode Code="891">
         <SubVillageName>वाढे(१३)</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="119">
-      <VillageName>वाळकी संगम</VillageName>
-      <SubVillageCode Code="312">
-        <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="121">
@@ -861,6 +858,12 @@
       </SubVillageCode>
       <SubVillageCode Code="1647">
         <SubVillageName>सहजपूर  फाटा(२३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="101">
+      <VillageName>भरतगाव</VillageName>
+      <SubVillageCode Code="365">
+        <SubVillageName />
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="103">
