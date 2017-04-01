@@ -226,7 +226,11 @@
     <level>3</level>
   </loginid>
   
-  
+  <loginid id="98">
+    <username>-</username>
+    <password>98</password>
+    <level>3</level>
+  </loginid>
 
   </users>
 
