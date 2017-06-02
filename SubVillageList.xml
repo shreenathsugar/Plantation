@@ -1247,6 +1247,12 @@
         <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1497">
+      <VillageName>हिवरे</VillageName>
+      <SubVillageCode Code="1853">
+        <SubVillageName>हिवरे(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1559">
       <VillageName>खंडाळा</VillageName>
       <SubVillageCode Code="1834">
