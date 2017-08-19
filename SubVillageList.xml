@@ -176,6 +176,21 @@
         <SubVillageName>मगरवाडी(७)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1854">
+      <VillageName>मिरवडी</VillageName>
+      <SubVillageCode Code="1855">
+        <SubVillageName>बैलखिळा(राहुरोडमार्गे)(१२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1856">
+        <SubVillageName>मिरवडी(राहुरोडमार्गे)(१४)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1857">
+        <SubVillageName>मेमाणेवाडी(राहुरोडमार्गे)(१२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1858">
+        <SubVillageName>मिरवडी(अष्टापूरमार्गे)(१९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="13">
     <GatName>पारगाव</GatName>

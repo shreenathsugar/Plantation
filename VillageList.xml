@@ -237,10 +237,10 @@
     <VillageCode Code="62">
       <VillageName>बुर्केगावा</VillageName>
     </VillageCode>
-    <VillageCode Code="130">
+    <VillageCode Code="178">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
-    <VillageCode Code="178">
+    <VillageCode Code="130">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
     <VillageCode Code="788">
@@ -674,10 +674,10 @@
     <VillageCode Code="132">
       <VillageName>खानोटा</VillageName>
     </VillageCode>
-    <VillageCode Code="192">
+    <VillageCode Code="160">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="160">
+    <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
     <VillageCode Code="163">
@@ -762,6 +762,9 @@
     </VillageCode>
     <VillageCode Code="120">
       <VillageName>गरदरे वाडी</VillageName>
+    </VillageCode>
+    <VillageCode Code="1854">
+      <VillageName>मिरवडी</VillageName>
     </VillageCode>
     <VillageCode Code="91">
       <VillageName>पिलाणवाडी</VillageName>
