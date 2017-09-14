@@ -800,6 +800,18 @@
         <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1859">
+      <VillageName>धानोरे(गेटकेन)</VillageName>
+      <SubVillageCode Code="1860">
+        <SubVillageName>धानोरे(०)गेटकेन</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1861">
+      <VillageName>निरगुडी</VillageName>
+      <SubVillageCode Code="1862">
+        <SubVillageName>निरगुडी(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
