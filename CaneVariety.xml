@@ -72,4 +72,7 @@
   <VarietyCode Code="24">
     <VarietyName>Ms-10001</VarietyName>
   </VarietyCode>
+  <VarietyCode Code="25">
+    <VarietyName>Co-8005</VarietyName>
+  </VarietyCode>
 </CaneVariety>
