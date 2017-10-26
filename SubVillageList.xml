@@ -464,6 +464,12 @@
         <SubVillageName>गणेगाव दुमाला(४५)पारगावमार्गे]</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1034">
+      <VillageName>निमोणे</VillageName>
+      <SubVillageCode Code="1863">
+        <SubVillageName />
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1187">
       <VillageName>कर्डे</VillageName>
       <SubVillageCode Code="1189">
