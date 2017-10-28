@@ -100,10 +100,10 @@
     <VillageCode Code="1830">
       <VillageName>खेड</VillageName>
     </VillageCode>
-    <VillageCode Code="1297">
+    <VillageCode Code="1295">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1295">
+    <VillageCode Code="1297">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
     <VillageCode Code="1509">
@@ -680,16 +680,16 @@
     <VillageCode Code="132">
       <VillageName>खानोटा</VillageName>
     </VillageCode>
-    <VillageCode Code="160">
-      <VillageName>खोपोडी</VillageName>
-    </VillageCode>
     <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
-      <VillageName>खोर</VillageName>
+    <VillageCode Code="160">
+      <VillageName>खोपोडी</VillageName>
     </VillageCode>
     <VillageCode Code="165">
+      <VillageName>खोर</VillageName>
+    </VillageCode>
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="44">
