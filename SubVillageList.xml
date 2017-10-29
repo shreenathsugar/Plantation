@@ -344,6 +344,12 @@
         <SubVillageName>मळद(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1864">
+      <VillageName>लोणारवाडी</VillageName>
+      <SubVillageCode Code="1865">
+        <SubVillageName>लोणारवाडी</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
