@@ -235,6 +235,26 @@
     <password>848</password>
     <level>3</level>
   </loginid>
+  <loginid id="851">
+    <username>-</username>
+    <password>851</password>
+    <level>3</level>
+</loginid>
+  <loginid id="852">
+    <username>-</username>
+    <password>852</password>
+    <level>3</level>
+</loginid>
+  <loginid id="849">
+    <username>-</username>
+    <password>849</password>
+    <level>3</level>
+</loginid>
+  <loginid id="850">
+    <username>-</username>
+    <password>850</password>
+    <level>3</level>
+</loginid>
 
   </users>
 
