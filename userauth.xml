@@ -255,6 +255,11 @@
     <password>850</password>
     <level>3</level>
 </loginid>
+  <loginid id="855">
+    <username>-</username>
+    <password>855</password>
+    <level>3</level>
+</loginid>
 
   </users>
 
