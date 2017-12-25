@@ -653,6 +653,12 @@
         <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="181">
+      <VillageName>बकोरी</VillageName>
+      <SubVillageCode Code="1869">
+        <SubVillageName>बकोरी (०) केसनंदमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="188">
       <VillageName>तरडे</VillageName>
       <SubVillageCode Code="1463">
