@@ -296,6 +296,12 @@
         <SubVillageName>खोपोडी(२६)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="176">
+      <VillageName>कुरकुंभ</VillageName>
+      <SubVillageCode Code="1870">
+        <SubVillageName>कुरकुंभ(४८)पाटसमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1075">
       <VillageName>पाटस</VillageName>
       <SubVillageCode Code="174">
