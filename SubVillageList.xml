@@ -493,6 +493,9 @@
       <SubVillageCode Code="1868">
         <SubVillageName>भोसेवाडी(४३)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1872">
+        <SubVillageName>मोटवाडी(०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1187">
       <VillageName>कर्डे</VillageName>
