@@ -1039,6 +1039,12 @@
       <SubVillageCode Code="1804">
         <SubVillageName>माळीमळा(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1873">
+        <SubVillageName>तांबोळओढा(२२)टायर/ट्र.गाडी(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1874">
+        <SubVillageName>तांबोळओढा(२५)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="23">
       <VillageName>भिमशेत</VillageName>
