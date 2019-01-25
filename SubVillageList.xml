@@ -719,6 +719,12 @@
         <SubVillageName>फुलगाव(३५)आळंदीफाटा मार्गे]</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1498">
+      <VillageName>वडगाव धायरी</VillageName>
+      <SubVillageCode Code="1499">
+        <SubVillageName>वडगाव धायरी कात्रजमार्गे (९०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1513">
       <VillageName>साष्टे</VillageName>
       <SubVillageCode Code="1621">
@@ -1040,10 +1046,43 @@
         <SubVillageName>माळीमळा(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1873">
-        <SubVillageName>तांबोळओढा(२२)टायर/ट्र.गाडी(विठ्ठलवाडीमार्गे)</SubVillageName>
+        <SubVillageName>तांबोळओढा(२५)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1874">
-        <SubVillageName>तांबोळओढा(२५)(विठ्ठलवाडीमार्गे)</SubVillageName>
+        <SubVillageName>तांबोळओढा(२२)टायर/ट्र.गाडी(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1875">
+        <SubVillageName>तळेगाव ढमढेरे(१७) (विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1876">
+        <SubVillageName>रामवाडी(१७)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1877">
+        <SubVillageName>कारभारी मळा(२२) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1878">
+        <SubVillageName>गुरवमळा(२२) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1879">
+        <SubVillageName>कवठीचा मळा (२१) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1880">
+        <SubVillageName>गणपतीमळा (२३) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1881">
+        <SubVillageName>जगताप वस्ती(१८) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1882">
+        <SubVillageName>चौधरीवस्ती (२०) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1883">
+        <SubVillageName>पांढरी वस्ती (२०) (विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1884">
+        <SubVillageName>मोहनमळा (२१)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1885">
+        <SubVillageName>माळीमळा (२१) (विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="23">
