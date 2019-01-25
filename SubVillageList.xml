@@ -1000,9 +1000,6 @@
     <GatName>तळेगाव ढमढेरे</GatName>
     <VillageCode Code="22">
       <VillageName>तळेगाव ढमढेरे</VillageName>
-      <SubVillageCode Code="1761">
-        <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1778">
         <SubVillageName>भोसेवस्ती(१७)(विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
@@ -1055,7 +1052,7 @@
         <SubVillageName>तळेगाव ढमढेरे(१७) (विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1876">
-        <SubVillageName>रामवाडी(१७)(विठ्ठलवाडीमार्गे</SubVillageName>
+        <SubVillageName>रामवाडी(२२)(विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1877">
         <SubVillageName>कारभारी मळा(२२) विठ्ठलवाडीमार्गे</SubVillageName>
