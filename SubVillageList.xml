@@ -362,6 +362,12 @@
         <SubVillageName>लोणारवाडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1886">
+      <VillageName>खडकी</VillageName>
+      <SubVillageCode Code="1887">
+        <SubVillageName>खडकी(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
@@ -1064,7 +1070,7 @@
         <SubVillageName>कवठीचा मळा (२१) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1880">
-        <SubVillageName>गणपतीमळा (२३) विठ्ठलवाडीमार्गे</SubVillageName>
+        <SubVillageName>गणपतीमाळ (२३) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1881">
         <SubVillageName>जगताप वस्ती(१८) विठ्ठलवाडीमार्गे</SubVillageName>
