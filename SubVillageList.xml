@@ -368,6 +368,12 @@
         <SubVillageName>खडकी(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1888">
+      <VillageName>रावणगाव</VillageName>
+      <SubVillageCode Code="1889">
+        <SubVillageName>रावणगाव(नंदादेवी)(६४)दौंडमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
@@ -1386,6 +1392,12 @@
       <VillageName>वरुडे</VillageName>
       <SubVillageCode Code="1842">
         <SubVillageName>वरुडे(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1890">
+      <VillageName>काळूस</VillageName>
+      <SubVillageCode Code="1891">
+        <SubVillageName>काळूस(०) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
