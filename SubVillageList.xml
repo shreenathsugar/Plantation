@@ -374,6 +374,12 @@
         <SubVillageName>रावणगाव(नंदादेवी)(६४)दौंडमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1892">
+      <VillageName>बोरीबेल</VillageName>
+      <SubVillageCode Code="1893">
+        <SubVillageName>बोरीबेल(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
@@ -783,6 +789,12 @@
       </SubVillageCode>
       <SubVillageCode Code="1662">
         <SubVillageName>आर्वी(५०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1525">
+      <VillageName>खळद</VillageName>
+      <SubVillageCode Code="1526">
+        <SubVillageName>खळद(७०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1528">
@@ -1245,6 +1257,9 @@
       <VillageName>करजावणे</VillageName>
       <SubVillageCode Code="1771">
         <SubVillageName>करंजावणे(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1894">
+        <SubVillageName>करजावणे पठार(२०)टायर/ट्र.गाडी(म्हाळुंगीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>

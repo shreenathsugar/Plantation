@@ -623,6 +623,9 @@
     <VillageCode Code="139">
       <VillageName>भांडगाव</VillageName>
     </VillageCode>
+    <VillageCode Code="1892">
+      <VillageName>बोरीबेल</VillageName>
+    </VillageCode>
     <VillageCode Code="1051">
       <VillageName>बोरीपार्धी</VillageName>
     </VillageCode>
@@ -683,16 +686,16 @@
     <VillageCode Code="132">
       <VillageName>खानोटा</VillageName>
     </VillageCode>
-    <VillageCode Code="192">
-      <VillageName>खोपोडी</VillageName>
-    </VillageCode>
     <VillageCode Code="160">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
-      <VillageName>खोर</VillageName>
+    <VillageCode Code="192">
+      <VillageName>खोपोडी</VillageName>
     </VillageCode>
     <VillageCode Code="165">
+      <VillageName>खोर</VillageName>
+    </VillageCode>
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="1886">
@@ -805,10 +808,10 @@
     <VillageCode Code="88">
       <VillageName>कोरेगाव भिवर</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
+    <VillageCode Code="201">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
+    <VillageCode Code="123">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="90">
