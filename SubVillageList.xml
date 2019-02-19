@@ -365,7 +365,7 @@
     <VillageCode Code="1886">
       <VillageName>खडकी</VillageName>
       <SubVillageCode Code="1887">
-        <SubVillageName>खडकी(०)</SubVillageName>
+        <SubVillageName>खडकी(६४) पाटसमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1888">
@@ -377,7 +377,7 @@
     <VillageCode Code="1892">
       <VillageName>बोरीबेल</VillageName>
       <SubVillageCode Code="1893">
-        <SubVillageName>बोरीबेल(०)</SubVillageName>
+        <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -793,8 +793,8 @@
     </VillageCode>
     <VillageCode Code="1525">
       <VillageName>खळद</VillageName>
-      <SubVillageCode Code="1526">
-        <SubVillageName>खळद(७०)</SubVillageName>
+      <SubVillageCode Code="1895">
+        <SubVillageName>खळद (६८) यवतमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1528">
@@ -1309,6 +1309,9 @@
       <SubVillageCode Code="1744">
         <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1896">
+        <SubVillageName>करंदी(०)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="58">
       <VillageName>जातेगाव ब्रु</VillageName>
@@ -1332,6 +1335,9 @@
       <VillageName>कोंढापुरी</VillageName>
       <SubVillageCode Code="1743">
         <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1897">
+        <SubVillageName>कोंढापुरी(०)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1089">
