@@ -331,6 +331,9 @@
       <SubVillageCode Code="1527">
         <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1900">
+        <SubVillageName>हनुमानवाडी(७८)दौंडमार्गे </SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1543">
       <VillageName>कुसेगाव</VillageName>
@@ -359,7 +362,7 @@
     <VillageCode Code="1864">
       <VillageName>लोणारवाडी</VillageName>
       <SubVillageCode Code="1865">
-        <SubVillageName>लोणारवाडी</SubVillageName>
+        <SubVillageName>लोणारवाडी(७०)पाटसमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1886">
@@ -512,7 +515,7 @@
         <SubVillageName>भोसेवाडी(४३)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1872">
-        <SubVillageName>मोटवाडी(०)पारगावमार्गे</SubVillageName>
+        <SubVillageName>मोटवाडी(४४)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1187">
@@ -692,7 +695,7 @@
     <VillageCode Code="181">
       <VillageName>बकोरी</VillageName>
       <SubVillageCode Code="1869">
-        <SubVillageName>बकोरी (०) केसनंदमार्गे</SubVillageName>
+        <SubVillageName>बकोरी (३१) केसनंदमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="188">
@@ -816,6 +819,12 @@
       <VillageName>सोळू</VillageName>
       <SubVillageCode Code="1817">
         <SubVillageName>सोळू(४५)मरकळमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1554">
+      <VillageName>बहुळ</VillageName>
+      <SubVillageCode Code="1899">
+        <SubVillageName />
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1566">
@@ -1285,6 +1294,9 @@
       <SubVillageCode Code="1746">
         <SubVillageName>जातेगाव खुर्द (३०) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1898">
+        <SubVillageName>जातेगाव खुर्द(२५)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="32">
       <VillageName>शिक्रापूर</VillageName>
@@ -1310,7 +1322,7 @@
         <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1896">
-        <SubVillageName>करंदी(०)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
+        <SubVillageName>करंदी(२८)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="58">
@@ -1337,7 +1349,7 @@
         <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1897">
-        <SubVillageName>कोंढापुरी(०)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
+        <SubVillageName>कोंढापुरी(२६)(टायर/ट्रक्टरगाडी) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1089">
@@ -1376,7 +1388,7 @@
     <VillageCode Code="1497">
       <VillageName>हिवरे</VillageName>
       <SubVillageCode Code="1853">
-        <SubVillageName>हिवरे(०)</SubVillageName>
+        <SubVillageName>हिवरे(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1559">
@@ -1418,7 +1430,7 @@
     <VillageCode Code="1890">
       <VillageName>काळूस</VillageName>
       <SubVillageCode Code="1891">
-        <SubVillageName>काळूस(०) (विठ्ठलवाडीमार्गे)</SubVillageName>
+        <SubVillageName>काळूस(४९) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
