@@ -824,7 +824,7 @@
     <VillageCode Code="1554">
       <VillageName>बहुळ</VillageName>
       <SubVillageCode Code="1899">
-        <SubVillageName />
+        <SubVillageName>बहुळ(०) विठ्ठलवाडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1566">
@@ -1306,9 +1306,6 @@
       <SubVillageCode Code="1740">
         <SubVillageName>राऊतवाडी (२७) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
-      <SubVillageCode Code="1741">
-        <SubVillageName>बुरुंजवाडी (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1759">
         <SubVillageName>राऊतवाडी (२४) (टायर/ट्रॅ.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
@@ -1333,6 +1330,9 @@
     </VillageCode>
     <VillageCode Code="146">
       <VillageName>बुरुजवाडी</VillageName>
+      <SubVillageCode Code="1741">
+        <SubVillageName>बुरुंजवाडी (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
       <SubVillageCode Code="1836">
         <SubVillageName>बुरंजवाडी(२४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
