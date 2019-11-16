@@ -470,6 +470,12 @@
         <SubVillageName>तांदळी(४५)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="54">
+      <VillageName>बाभूळसर</VillageName>
+      <SubVillageCode Code="247">
+        <SubVillageName>बाभुळसर(0)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="55">
       <VillageName>इनामगाव</VillageName>
       <SubVillageCode Code="1636">
@@ -1389,6 +1395,12 @@
       <VillageName>हिवरे</VillageName>
       <SubVillageCode Code="1853">
         <SubVillageName>हिवरे(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1518">
+      <VillageName>भांबर्डे</VillageName>
+      <SubVillageCode Code="1517">
+        <SubVillageName>भांबर्डे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1559">
