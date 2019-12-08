@@ -49,6 +49,9 @@
       <SubVillageCode Code="1654">
         <SubVillageName>बांदलवस्ती(१२)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1902">
+        <SubVillageName>राहू(१६)वाहनटोली</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="82">
       <VillageName>दहीटणे</VillageName>
