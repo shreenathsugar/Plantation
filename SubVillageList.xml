@@ -389,6 +389,12 @@
         <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1961">
+      <VillageName>गोपाळवाडी</VillageName>
+      <SubVillageCode Code="1962">
+        <SubVillageName>गोपाळवाडी(५३)पारगाव मार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
