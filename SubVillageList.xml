@@ -542,6 +542,12 @@
         <SubVillageName>कर्डे(पारगावमार्गे])(४५)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1277">
+      <VillageName>कौढा</VillageName>
+      <SubVillageCode Code="1275">
+        <SubVillageName>कौढा(५०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1539">
       <VillageName>आंबळे</VillageName>
       <SubVillageCode Code="1638">
@@ -727,6 +733,9 @@
       <SubVillageCode Code="686">
         <SubVillageName>लोणी काळभोर(४२)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1524">
+        <SubVillageName>कवडी(४५)</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="195">
       <VillageName>नायगाव</VillageName>
@@ -795,12 +804,6 @@
       <VillageName>वडगाव शिंदे</VillageName>
       <SubVillageCode Code="1814">
         <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="1277">
-      <VillageName>कौढा</VillageName>
-      <SubVillageCode Code="1275">
-        <SubVillageName>कौढा(५०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1301">
