@@ -100,10 +100,10 @@
     <VillageCode Code="1830">
       <VillageName>खेड</VillageName>
     </VillageCode>
-    <VillageCode Code="1295">
+    <VillageCode Code="1297">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1297">
+    <VillageCode Code="1295">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
     <VillageCode Code="1509">
@@ -114,9 +114,6 @@
     </VillageCode>
     <VillageCode Code="1435">
       <VillageName>कोपर्डी</VillageName>
-    </VillageCode>
-    <VillageCode Code="1277">
-      <VillageName>कौढा</VillageName>
     </VillageCode>
     <VillageCode Code="77">
       <VillageName>कोयाळी</VillageName>
@@ -169,9 +166,6 @@
     <VillageCode Code="1851">
       <VillageName>परिचे</VillageName>
     </VillageCode>
-    <VillageCode Code="1177">
-      <VillageName>पेडगाव</VillageName>
-    </VillageCode>
     <VillageCode Code="1475">
       <VillageName>राक्षसवाडी बु</VillageName>
     </VillageCode>
@@ -204,9 +198,6 @@
     </VillageCode>
     <VillageCode Code="78">
       <VillageName>वडगाव शिंदे</VillageName>
-    </VillageCode>
-    <VillageCode Code="1471">
-      <VillageName>श्रीगोंदा</VillageName>
     </VillageCode>
     <VillageCode Code="1545">
       <VillageName>येळपणे</VillageName>
@@ -399,10 +390,10 @@
     <VillageCode Code="213">
       <VillageName>स्वारगेट</VillageName>
     </VillageCode>
-    <VillageCode Code="188">
+    <VillageCode Code="1465">
       <VillageName>तरडे</VillageName>
     </VillageCode>
-    <VillageCode Code="1465">
+    <VillageCode Code="188">
       <VillageName>तरडे</VillageName>
     </VillageCode>
     <VillageCode Code="128">
@@ -698,10 +689,10 @@
     <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
+    <VillageCode Code="165">
       <VillageName>खोर</VillageName>
     </VillageCode>
-    <VillageCode Code="165">
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="1886">
@@ -743,10 +734,10 @@
     <VillageCode Code="1727">
       <VillageName>मेरगळ वाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="151">
+    <VillageCode Code="111">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="111">
+    <VillageCode Code="151">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
     <VillageCode Code="116">
@@ -814,10 +805,10 @@
     <VillageCode Code="88">
       <VillageName>कोरेगाव भिवर</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
+    <VillageCode Code="123">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
+    <VillageCode Code="201">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="90">
@@ -829,10 +820,10 @@
     <VillageCode Code="80">
       <VillageName>पाटेठाण</VillageName>
     </VillageCode>
-    <VillageCode Code="159">
+    <VillageCode Code="81">
       <VillageName>राहु</VillageName>
     </VillageCode>
-    <VillageCode Code="81">
+    <VillageCode Code="159">
       <VillageName>राहु</VillageName>
     </VillageCode>
     <VillageCode Code="85">
@@ -897,6 +888,9 @@
     <VillageCode Code="171">
       <VillageName>कोळगाव डोळस</VillageName>
     </VillageCode>
+    <VillageCode Code="1277">
+      <VillageName>कौढा</VillageName>
+    </VillageCode>
     <VillageCode Code="1187">
       <VillageName>कर्डे</VillageName>
     </VillageCode>
@@ -918,6 +912,9 @@
     <VillageCode Code="147">
       <VillageName>न्हावरा</VillageName>
     </VillageCode>
+    <VillageCode Code="1177">
+      <VillageName>पेडगाव</VillageName>
+    </VillageCode>
     <VillageCode Code="1183">
       <VillageName>ढवळे वाडी</VillageName>
     </VillageCode>
@@ -936,11 +933,17 @@
     <VillageCode Code="49">
       <VillageName>साद्लगाव</VillageName>
     </VillageCode>
+    <VillageCode Code="1963">
+      <VillageName>सांगवी दुमाला</VillageName>
+    </VillageCode>
     <VillageCode Code="53">
       <VillageName>तांदळी</VillageName>
     </VillageCode>
     <VillageCode Code="47">
       <VillageName>वडगाव रासाई</VillageName>
+    </VillageCode>
+    <VillageCode Code="1471">
+      <VillageName>श्रीगोंदा</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="20">

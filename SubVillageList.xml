@@ -275,6 +275,12 @@
         <SubVillageName>कडेठाण(पिंपळगाव मार्गे])(३२)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="116">
+      <VillageName>नानवीज</VillageName>
+      <SubVillageCode Code="309">
+        <SubVillageName>नानवीज(५८)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="117">
       <VillageName>केडगाव</VillageName>
       <SubVillageCode Code="310">
@@ -536,6 +542,12 @@
         <SubVillageName>मोटवाडी(४४)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1177">
+      <VillageName>पेडगाव</VillageName>
+      <SubVillageCode Code="1179">
+        <SubVillageName>पेडगाव(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1187">
       <VillageName>कर्डे</VillageName>
       <SubVillageCode Code="1189">
@@ -546,6 +558,12 @@
       <VillageName>कौढा</VillageName>
       <SubVillageCode Code="1275">
         <SubVillageName>कौठा(५७)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1471">
+      <VillageName>श्रीगोंदा</VillageName>
+      <SubVillageCode Code="1149">
+        <SubVillageName>श्रीगोंदा(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1539">
