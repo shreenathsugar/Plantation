@@ -554,6 +554,12 @@
         <SubVillageName>कर्डे(पारगावमार्गे])(४५)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1265">
+      <VillageName>अजनुज</VillageName>
+      <SubVillageCode Code="1151">
+        <SubVillageName>अजनुज(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1277">
       <VillageName>कौढा</VillageName>
       <SubVillageCode Code="1275">
@@ -570,6 +576,12 @@
       <VillageName>आंबळे</VillageName>
       <SubVillageCode Code="1638">
         <SubVillageName>आंबळे(४०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1963">
+      <VillageName>सांगवी दुमाला</VillageName>
+      <SubVillageCode Code="1964">
+        <SubVillageName>सांगवी दुमाला(५८)निमगाव खलु मार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1156,11 +1168,20 @@
     </VillageCode>
     <VillageCode Code="37">
       <VillageName>पारोडी</VillageName>
-      <SubVillageCode Code="1774">
-        <SubVillageName>पारोडी(33)म्हाळुंगी डँममार्गे</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1806">
         <SubVillageName>पारोडी(15)(टायर /ट्रॅ.गा)म्हाळुंगी डँममार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1965">
+        <SubVillageName>पारोडी कारंजावणे(२०)(टायर /ट्रॅ.गा)म्हाळुंगी डँममार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1966">
+        <SubVillageName>पारोडी(३७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="38">
+      <VillageName>दहिवडी</VillageName>
+      <SubVillageCode Code="1967">
+        <SubVillageName>दहिवडी(४०)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="193">
