@@ -13,11 +13,11 @@
     <VillageCode Code="1291">
       <VillageName>आढळगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1265">
-      <VillageName>अजनुज</VillageName>
-    </VillageCode>
     <VillageCode Code="1399">
       <VillageName>भाबोरा</VillageName>
+    </VillageCode>
+    <VillageCode Code="1971">
+      <VillageName>भांबवडे</VillageName>
     </VillageCode>
     <VillageCode Code="1285">
       <VillageName>भावडी(गेटकेन)</VillageName>
@@ -100,10 +100,10 @@
     <VillageCode Code="1830">
       <VillageName>खेड</VillageName>
     </VillageCode>
-    <VillageCode Code="1297">
+    <VillageCode Code="1295">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="1295">
+    <VillageCode Code="1297">
       <VillageName>कोकणगाव</VillageName>
     </VillageCode>
     <VillageCode Code="1509">
@@ -234,10 +234,10 @@
     <VillageCode Code="62">
       <VillageName>बुर्केगावा</VillageName>
     </VillageCode>
-    <VillageCode Code="178">
+    <VillageCode Code="130">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
-    <VillageCode Code="130">
+    <VillageCode Code="178">
       <VillageName>भवरापूर</VillageName>
     </VillageCode>
     <VillageCode Code="788">
@@ -390,10 +390,10 @@
     <VillageCode Code="213">
       <VillageName>स्वारगेट</VillageName>
     </VillageCode>
-    <VillageCode Code="1465">
+    <VillageCode Code="188">
       <VillageName>तरडे</VillageName>
     </VillageCode>
-    <VillageCode Code="188">
+    <VillageCode Code="1465">
       <VillageName>तरडे</VillageName>
     </VillageCode>
     <VillageCode Code="128">
@@ -689,10 +689,10 @@
     <VillageCode Code="192">
       <VillageName>खोपोडी</VillageName>
     </VillageCode>
-    <VillageCode Code="165">
+    <VillageCode Code="163">
       <VillageName>खोर</VillageName>
     </VillageCode>
-    <VillageCode Code="163">
+    <VillageCode Code="165">
       <VillageName>खोर</VillageName>
     </VillageCode>
     <VillageCode Code="1886">
@@ -734,10 +734,10 @@
     <VillageCode Code="1727">
       <VillageName>मेरगळ वाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="111">
+    <VillageCode Code="151">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
-    <VillageCode Code="151">
+    <VillageCode Code="111">
       <VillageName>नानगाव</VillageName>
     </VillageCode>
     <VillageCode Code="116">
@@ -754,6 +754,9 @@
     </VillageCode>
     <VillageCode Code="1888">
       <VillageName>रावणगाव</VillageName>
+    </VillageCode>
+    <VillageCode Code="1968">
+      <VillageName>सोनवडी</VillageName>
     </VillageCode>
     <VillageCode Code="21">
       <VillageName>वाखारी</VillageName>
@@ -805,10 +808,10 @@
     <VillageCode Code="88">
       <VillageName>कोरेगाव भिवर</VillageName>
     </VillageCode>
-    <VillageCode Code="123">
+    <VillageCode Code="201">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
-    <VillageCode Code="201">
+    <VillageCode Code="123">
       <VillageName>मगरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="90">
@@ -820,10 +823,10 @@
     <VillageCode Code="80">
       <VillageName>पाटेठाण</VillageName>
     </VillageCode>
-    <VillageCode Code="81">
+    <VillageCode Code="159">
       <VillageName>राहु</VillageName>
     </VillageCode>
-    <VillageCode Code="159">
+    <VillageCode Code="81">
       <VillageName>राहु</VillageName>
     </VillageCode>
     <VillageCode Code="85">
@@ -857,6 +860,9 @@
     </VillageCode>
     <VillageCode Code="39">
       <VillageName>आरणगाव</VillageName>
+    </VillageCode>
+    <VillageCode Code="1265">
+      <VillageName>अजनुज</VillageName>
     </VillageCode>
     <VillageCode Code="54">
       <VillageName>बाभूळसर</VillageName>

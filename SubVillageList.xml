@@ -401,6 +401,12 @@
         <SubVillageName>गोपाळवाडी(५३)पारगाव मार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1968">
+      <VillageName>सोनवडी</VillageName>
+      <SubVillageCode Code="1969">
+        <SubVillageName />
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
@@ -938,6 +944,12 @@
         <SubVillageName>निरगुडी(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1971">
+      <VillageName>भांबवडे</VillageName>
+      <SubVillageCode Code="1972">
+        <SubVillageName>भांबवडे(०)विर निरामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
@@ -1401,6 +1413,9 @@
       <VillageName>काळूस</VillageName>
       <SubVillageCode Code="1925">
         <SubVillageName>काळूस(५०)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1970">
+        <SubVillageName />
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1904">
