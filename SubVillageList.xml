@@ -404,7 +404,7 @@
     <VillageCode Code="1968">
       <VillageName>सोनवडी</VillageName>
       <SubVillageCode Code="1969">
-        <SubVillageName />
+        <SubVillageName>सोनवडी(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1415,7 +1415,10 @@
         <SubVillageName>काळूस(५०)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1970">
-        <SubVillageName />
+        <SubVillageName>काळूस(४५)(टायर/ट्रॅ.गा)पिंपरी न्हावी-सांगवी मार्गे </SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1973">
+        <SubVillageName>काळूस माळवाडी(५६) पिंपरी आष्टापुर फाटामार्गे </SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1904">
